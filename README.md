@@ -6,7 +6,7 @@ The extension leverages [Equalify Reflow](https://equalify.uic.edu/reflow), an A
 
 We're excited to build this as part of the [GitHub Open Source Assistive Technology Hackathon](https://www.eventbrite.com/e/open-source-assistive-technology-hackathon-tickets-198406437896).
 
-Feel free to add an issue to this repo if you would like to participate, and don't forget to star this repo!
+Feel free to add an issue to this repo if you would like to participate or have any questions - and don't forget to star this repo!
 
 Together, we can equalify the internet.
 
