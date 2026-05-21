@@ -13,3 +13,7 @@ Together, we can equalify the internet.
 ## License
 
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See [LICENSE](LICENSE) for details.
+
+
+## Branch notes
+bookmarklet-beautified.js retains comments and beautified formatting for the bookmarklet. bookmarklet.js is what you should paste in a bookmark to actually use the bookmarklet.
